@@ -1,0 +1,17 @@
+*{
+    background-image: url(./img/cyberpunk_city.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+
+}
+
+.botao_play{
+    margin-top: 350px;
+    margin-left: 680px;
+    width: 150px;
+    height: 50px;
+    
+}
+    
